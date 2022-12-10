@@ -4,7 +4,7 @@ const count = document.getElementById('count');
 const total = document.getElementById('total');
 const movieSelect = document.getElementById('movie');
 
-populateUI();
+populateUI(); 
 
 let ticketPrice = +movieSelect.value;
 
